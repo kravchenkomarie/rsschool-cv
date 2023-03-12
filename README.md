@@ -1,2 +1,4 @@
 # rsschool-cv
-# https://kravchenkomarie.github.io/rsschool-cv/cv
+# https://kravchenkomarie.github.io/rsschool-cv/
+
+
